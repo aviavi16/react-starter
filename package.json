@@ -1,0 +1,22 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "codeAcademyExcersize",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviavi16/react-starter.git"
+  },
+  "author": "avinoam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aviavi16/react-starter/issues"
+  },
+  "homepage": "https://github.com/aviavi16/react-starter#readme"
+}
