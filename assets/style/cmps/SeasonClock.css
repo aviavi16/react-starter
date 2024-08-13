@@ -1,0 +1,8 @@
+.season-clock-container{
+    font-size: 2em;
+    font-family: monospace;
+    background-color: lightslategray;
+    text-align: center;
+    margin-block-start:10px ;
+    padding:  10px;
+}

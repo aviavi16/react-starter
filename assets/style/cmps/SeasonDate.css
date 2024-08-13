@@ -1,0 +1,11 @@
+.season-date-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: lightblue;
+}
+.season-date-container.dark{
+    background-color: darkblue;
+    color: white;
+}

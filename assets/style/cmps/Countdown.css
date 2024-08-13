@@ -1,0 +1,21 @@
+.countdown-container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+.counterSpan{
+    border-style: double;
+    background-color: lightblue;
+    padding:  20px;
+    margin-block-start:10px ;
+    font-size: 36px;
+    font-family: monospace;
+    position:relative;
+    padding:20px 40px;
+}
+.counterSpan.red{
+    color: red;
+}
